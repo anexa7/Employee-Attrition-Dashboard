@@ -13,8 +13,6 @@ It focuses on identifying the main factors influencing employee turnover, such a
 - **AICW PPT.pptx** – presentation file
 - **Video Demonstration** – project demo video
 
-## Live Dashboard
-[Click here to view the dashboard online](https://anexa7.github.io/My_Project/)
 
 ## Key Insights
 - Attrition varies by job satisfaction score
