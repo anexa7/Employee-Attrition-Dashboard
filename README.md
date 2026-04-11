@@ -1,6 +1,6 @@
 # Employee Attrition Analysis Dashboard
 ## Live Dashboard
-[View Dashboard Here](https://anexa7.github.io/My_Project/)
+[View Dashboard Here](https://anexa7.github.io/Employee-Attrition-Dashboard/)
 
 This project analyzes employee attrition patterns using Power BI.  
 It focuses on identifying the main factors influencing employee turnover, such as job satisfaction, work-life balance, overtime, salary band, and performance rating.
